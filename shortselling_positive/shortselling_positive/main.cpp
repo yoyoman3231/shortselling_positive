@@ -102,7 +102,7 @@ int test_day;
 double all_max;
 int all_max_solution[10000];
 double random;
-int file_num = 16;
+int file_num = 28;
 double Gbest[50];
 double all_max_tmp[50];
 double Gbest_max;
